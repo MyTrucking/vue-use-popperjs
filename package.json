@@ -38,7 +38,6 @@
     "vue-demi"
   ],
   "scripts": {
-    "postinstall": "husky install",
     "prepublishOnly": "pinst --disable",
     "postpublish": "pinst --enable"
   },
